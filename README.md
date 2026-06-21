@@ -1,2 +1,14 @@
 # aokerukou-journal
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
